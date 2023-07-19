@@ -1,0 +1,10 @@
+*/node_modules/*
+ser.txt
+tst.py
+rnd_serializer.py
+.idea/
+*.pyc
+*.pyo
+.env
+rnd_serizlie.py
+.env
